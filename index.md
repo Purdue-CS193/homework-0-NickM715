@@ -1,6 +1,8 @@
 # Nick's First CS193 Homework #
 ## my favorite things about cs193 ##
-- 
+- learning about github
+- setting up a website and learning how to edit its format
+- working with other cs students
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
